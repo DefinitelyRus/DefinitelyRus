@@ -24,6 +24,7 @@ I'm a result-oriented programmer and I'm fairly new to the software development 
   - [Multi-purpose Discord bot](https://github.com/DefinitelyRus/LazySlavey)
   - [Minecraft Manhunt Plugin](https://github.com/DefinitelyRus/DiscountManhunt)
   - [Minecraft LegendaryTools Plugin](https://github.com/DefinitelyRus/LegendaryTools)
+  - [SnakeAI](https://github.com/DefinitelyRus/SnakeAI)
 - Projects I plan working on are as listed:
   - Text-only adventure game
   - Snake game with AI
