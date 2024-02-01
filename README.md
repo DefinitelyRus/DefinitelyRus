@@ -1,8 +1,9 @@
+<!-- IMPORTANT NOTE: Do not include any personally-identifying information in this README page, or anywhere at all in GitHub. -->
 ## Hello.
 I am Rus. I do computer things including but not limited to: backend software development, home server design & administration, basic UI & UX design, and team management. Other than computer things, I also do more computer things such as: video production, flight simulators, and bricking laptops... 3 times now. Please do hesitate to send me a message about computer things. Thank you.
 
 ## Background
-- College of Science in Computer Science (Specialized in Intelligent Systems)
+- Computer Science Graduate (Specialized in Intelligent Systems)
 - Hyper Resonance Lead Engineer & Master Procrastinator
 
 ## Skills
@@ -12,12 +13,12 @@ I am Rus. I do computer things including but not limited to: backend software de
   - HTML + CSS + JavaScript
   - Java
   - Python 3
-- Basic use of DBMSs (MySQL, SQLite, & PostgreSQL).
+- Basic use of DBMSs (MySQL, SQLite, & Postgres).
 - Basic UI & UX design.
 - Home server hosting & management.
 
 ### Unrelated
-- [Youtube](https://www.youtube.com/channel/UCxU_0Y7J2iNC6iXq1yqeJ1Q)
+- [Youtube](https://youtube.com/@DefinitelyRus)
 
 ## Projects
 - Released / Ongoing Projects:
