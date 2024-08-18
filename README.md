@@ -3,7 +3,7 @@
 I am Rus. I do computer things including but not limited to: backend software development, home server design & administration, basic UI & UX design, and team management. Other than computer things, I also do more computer things such as: video production, flight simulators, and bricking laptops... 3 times now. Please do hesitate to send me a message about computer things. Thank you.
 
 ## Background
-- Computer Science Graduate (Specialized in Intelligent Systems)
+- Computer Science Graduate (Specialized in Game Development)
 - Hyper Resonance Lead Engineer & Master Procrastinator
 
 ## Skills
