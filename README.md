@@ -13,17 +13,14 @@ If you have any questions or requests that you believe I can deliver on, please 
 
 ## Skills
 - Known languages:
-  - C# / .NET
+  - C#
   - HTML + CSS + JavaScript
   - Java
   - Python 3
 - Basic use of DBMS (MySQL, SQLite, & Postgres)
-- Basic UI & UX desig
+- Basic UI & UX design
 - Home file server hosting
 - 1 year of Linux Mint as daily driver OS
-
-### Unrelated
-- [Youtube](https://youtube.com/@DefinitelyRus)
 
 ## Projects
 - Released / Ongoing Projects:
@@ -37,6 +34,9 @@ If you have any questions or requests that you believe I can deliver on, please 
   - [HTML Alarm Clock](https://github.com/DefinitelyRus/HTML-Alarm-Clock)
   - [In-app About Page (Customized UI)](https://github.com/DefinitelyRus/CS-SiteDetailsOOP)
 
+### Shameless Self-promotion
+- [Youtube](https://youtube.com/@DefinitelyRus)
+
 ## Want to learn
 - Full-stack development
 - PostgreSQL
@@ -44,6 +44,7 @@ If you have any questions or requests that you believe I can deliver on, please 
 - Homelab setups
 - Brainfuck
 - Secure data transfer practices
+- Offensive Security
 - Music Composition
 
 ## Contact Me
