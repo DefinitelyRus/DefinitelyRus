@@ -19,13 +19,12 @@ If you have any questions or requests that you believe I can deliver on, please 
   - Python 3
 - Basic use of DBMS (MySQL, SQLite, & Postgres)
 - Basic UI & UX design
-- Home file server hosting
-- 1 year of Linux Mint as daily driver OS
+- Proxmox Virtualization & Containerization
 
 ## Projects
 - Released / Ongoing Projects:
-  - [Top-down Strategy Roguelike in Godot 4](https://github.com/DefinitelyRus/ProjectSentientIntelligence)
-  - Osu-like Mobile Rhythm Game (Hyper Resonance) (On hiatus?)
+  - [Top-down Strategy Roguelike in Godot 4](https://github.com/DefinitelyRus/ProjectSentientIntelligence) (Ongoing)
+  - [2D Top-down Public Transport Driver Game (Manibela Mania)](https://github.com/DefinitelyRus/Manibela-Mania)
   - [Scalable Discord Bot Foundation](https://github.com/DefinitelyRus/Clovi) (On hiatus)
 - Commissioned Projects:
   - Micro-sized Business Sales, Inventory, and Finance Management System (On hiatus)
@@ -36,16 +35,7 @@ If you have any questions or requests that you believe I can deliver on, please 
 
 ### Shameless Self-promotion
 - [Youtube](https://youtube.com/@DefinitelyRus)
-
-## Want to learn
-- Full-stack development
-- PostgreSQL
-- 日本語
-- Homelab setups
-- Brainfuck
-- Secure data transfer practices
-- Offensive Security
-- Music Composition
+- [itch.io](https://itch.io/profile/definitelyrus)
 
 ## Contact Me
 If you're interested in working with me in any of the projects shown in \[Projects of Interest\], or want me to participate in a project of your own, please contact me:
