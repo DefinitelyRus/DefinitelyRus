@@ -42,7 +42,6 @@ Other computer-related things I do include but not limited to:
 - [Project Sentient Island](https://github.com/DefinitelyRus/PSI-Game) - Top-down Strategy Roguelike in [Godot 4.5](https://godotengine.org/)
 - [Suave](https://github.com/DefinitelyRus/Suave) - A Top-down Hotline-Miami-like "Shooter" using [Raylib](https://www.raylib.com/)
 - [Not Quite Tetris](https://github.com/DefinitelyRus/NotQuiteTetris) - Block Blast Clone using only [Raylib](https://www.raylib.com/)
-- [That One PVZ Minigame](https://github.com/DefinitelyRus/ThatOnePVZMinigame) - Insaniquarium Clone using only [Raylib](https://www.raylib.com/)
 - [Manibela Mania](https://github.com/DefinitelyRus/Manibela-Mania) - 2D Top-down Public Transport Driver Game in [Unity 6](https://unity.com/) (48-hour Game Jam)
 - [Edgers of Space (Beam Battle)](https://github.com/DefinitelyRus/BeamBattle) - 2D 2-player Couch Multiplayer Spaceship Battle in [Unity 6](https://unity.com/) (96-hour Project)
 
