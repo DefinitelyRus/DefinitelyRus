@@ -1,6 +1,8 @@
 <!-- IMPORTANT NOTE: Do not include any personally-identifying information in this README page, or anywhere at all in GitHub. -->
 # Greetings.
-I am definitely Rus. I develop games and backend systems (or backend systems for games) with maintainability in mind. [Teto](https://kasaneteto.jp/).
+I am definitely Rus. I develop games and backend systems (or backend systems for games) with maintainability in mind.
+
+[Teto](https://kasaneteto.jp/). 🔻❤️🔻
 
 Other computer-related things I do include but not limited to:
 - Home server deployment
@@ -17,7 +19,7 @@ Other computer-related things I do include but not limited to:
 # Background
 - Computer Science Undergrad - Specialized in Game Development
 - TVL-ICT Graduate - Specialized in Computer Programming
-- Mk. 39 Project Lead (worked on [Grammar Quest](https://github.com/DefinitelyRus/GrammarQuest), [Project Sentient Island](https://github.com/DefinitelyRus/PSI-Game), and [Edgers of Space](https://github.com/DefinitelyRus/BeamBattle))
+- Okay Squad Project Lead (worked on [Grammar Quest](https://github.com/DefinitelyRus/GrammarQuest), [Project Sentient Island](https://github.com/DefinitelyRus/PSI-Game), and [Edgers of Space](https://github.com/DefinitelyRus/BeamBattle))
 - 6.9GHz Development Lead (worked on [Manibela Mania](https://github.com/DefinitelyRus/Manibela-Mania))
 
 
@@ -29,16 +31,18 @@ Other computer-related things I do include but not limited to:
 	- English
 	- Python 3
 - Basic use of DBMS (MySQL & SQLite)
-- Virtual Machine & Container Deployment
+- Basic use of Virtual Machines & Docker Containers
 
 
 # Highlighted Projects
 ## Ongoing
-- [Project Sentient Island](https://github.com/DefinitelyRus/PSI-Game) - Top-down Strategy Roguelike in [Godot 4.5](https://godotengine.org/)
+- *There are currently no ongoing projects.*
 
 ## Finished
-- ["Not Quite Tetris"](https://github.com/DefinitelyRus/NotQuiteTetris) - Block Blast Clone using only [Raylib](https://www.raylib.com/)
-- ["That One PVZ Minigame"](https://github.com/DefinitelyRus/ThatOnePVZMinigame) - Insaniquarium Clone using only [Raylib](https://www.raylib.com/)
+- [Project Sentient Island](https://github.com/DefinitelyRus/PSI-Game) - Top-down Strategy Roguelike in [Godot 4.5](https://godotengine.org/)
+- [Suave](https://github.com/DefinitelyRus/Suave) - A Top-down Hotline-Miami-like "Shooter" using [Raylib](https://www.raylib.com/)
+- [Not Quite Tetris](https://github.com/DefinitelyRus/NotQuiteTetris) - Block Blast Clone using only [Raylib](https://www.raylib.com/)
+- [That One PVZ Minigame](https://github.com/DefinitelyRus/ThatOnePVZMinigame) - Insaniquarium Clone using only [Raylib](https://www.raylib.com/)
 - [Manibela Mania](https://github.com/DefinitelyRus/Manibela-Mania) - 2D Top-down Public Transport Driver Game in [Unity 6](https://unity.com/) (48-hour Game Jam)
 - [Edgers of Space (Beam Battle)](https://github.com/DefinitelyRus/BeamBattle) - 2D 2-player Couch Multiplayer Spaceship Battle in [Unity 6](https://unity.com/) (96-hour Project)
 
