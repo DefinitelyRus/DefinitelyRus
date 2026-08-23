@@ -25,11 +25,11 @@ I use [**.NET**](https://en.wikipedia.org/wiki/.NET) + [**C#**](https://en.wikip
 
 | Project | Technologies | Status | Description |
 | --- | --- | --- | --- |
-| [**EZ Business Manager**](https://github.com/DefinitelyRus/EZBM) | C#, .NET, ASP.NET | On hiatus since 2026. | _A super easy-to-use business management software—so easy, that a toddler can use it._[^1][^2] |
-| **Hatsu.NET** (Closed-source) | C#, .NET, Discord.NET | Unknown since 2026. | _One of the Discord bots of all time._ |
+| [**EZ Business Manager**](https://github.com/DefinitelyRus/EZBM) | C#, .NET, ASP.NET, SQLite | On hiatus since 2026. | _A super easy-to-use business management software—so easy, that a toddler can use it._[^1][^2] |
+| **Hatsu.NET** (Closed-source) | C#, .NET, Discord.NET, PostgreSQL | Unknown since 2026. | _One of the Discord bots of all time._ |
 | [**RecursionUI**](https://github.com/DefinitelyRus/RecursionUI)  | Java, Jswing | Completed in 2023. | _A Java Jswing GUI project showcasing efficient recursion. Implements multiprocessing because I was bored._ |
 | [**InfoApp**](https://github.com/DefinitelyRus/InfoApp) | C#, .NET, Windows Forms | Completed in 2022. | _Commissioned Windows Forms showcase app. Displays static information._ |
-| [**LazyJavie**](https://github.com/DefinitelyRus/LazyJavie) | Java, Discord JDA | Completed in 2021. | _Homemade utility Discord bot using Discord JDA. It likes to pretend to be useful._ |
+| [**LazyJavie**](https://github.com/DefinitelyRus/LazyJavie) | Java, Discord JDA, MySQL | Completed in 2021. | _Homemade utility Discord bot using Discord JDA. It likes to pretend to be useful._ |
 
 </details>
 &nbsp;
@@ -119,7 +119,7 @@ You can find my other work here:
 &nbsp;
 
 ## Contact Me
-If you have any questions or requests that you believe I can deliver on, please hesitate to send me a message[^3*] here:
+If you have any questions or requests that you believe I can deliver on, please hesitate to send me a message[^3] here:
 - Email: `rus.git@pm.me`
 - Discord: `_rus`
 
