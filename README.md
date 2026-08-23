@@ -4,15 +4,13 @@
 
 I am definitely Rus. Developer of gizmos, doohickeys, and thingumbobs.
 
-[🔻❤️🔻](https://kasaneteto.jp/)[^1]
+🔻❤️🔻
 
 ## Background
 
 - Software Engineer Intern (Feb to Apr 2026)
 - Bachelor of Science in Computer Science - Major in Game Development
 - TVL-ICT Graduate - Computer Programming Specialization
-
-[^1]: Not my website. I just like the character.
 
 &nbsp;
 
@@ -27,7 +25,7 @@ I use [**.NET**](https://en.wikipedia.org/wiki/.NET) + [**C#**](https://en.wikip
 
 | Project | Technologies | Status | Description |
 | --- | --- | --- | --- |
-| [**EZ Business Manager**](https://github.com/DefinitelyRus/EZBM) | C#, .NET, ASP.NET | On hiatus since 2026. | _A super easy-to-use business management software—so easy, that a toddler can use it._[^2][^3] |
+| [**EZ Business Manager**](https://github.com/DefinitelyRus/EZBM) | C#, .NET, ASP.NET | On hiatus since 2026. | _A super easy-to-use business management software—so easy, that a toddler can use it._[^1][^2] |
 | **Hatsu.NET** (Closed-source) | C#, .NET, Discord.NET | Unknown since 2026. | _One of the Discord bots of all time._ |
 | [**RecursionUI**](https://github.com/DefinitelyRus/RecursionUI)  | Java, Jswing | Completed in 2023. | _A Java Jswing GUI project showcasing efficient recursion. Implements multiprocessing because I was bored._ |
 | [**InfoApp**](https://github.com/DefinitelyRus/InfoApp) | C#, .NET, Windows Forms | Completed in 2022. | _Commissioned Windows Forms showcase app. Displays static information._ |
@@ -38,8 +36,8 @@ I use [**.NET**](https://en.wikipedia.org/wiki/.NET) + [**C#**](https://en.wikip
 
 <!-- Footnotes -->
 
-[^2]: The EZBM project includes 2 front-end interfaces made in **React** and in **.NET Razor Pages** respectively, neither of which I made. The **React** site was made by another contributor, while the **Razor Pages** was entirely vibe-coded for testing purposes. Only `EZBM.Core` and `EZBM.DesktopHost` were made by me.
-[^3]: The current UI design is rather standard; it'll be redesigned to follow the original vision.
+[^1]: The EZBM project includes 2 front-end interfaces made in **React** and in **.NET Razor Pages** respectively, neither of which I made. The **React** site was made by another contributor, while the **Razor Pages** was entirely vibe-coded for testing purposes. Only `EZBM.Core` and `EZBM.DesktopHost` were made by me.
+[^2]: The current UI design is rather standard; it'll be redesigned to follow the original vision.
 
 <!-- Footnotes -->
 
@@ -121,8 +119,8 @@ You can find my other work here:
 &nbsp;
 
 ## Contact Me
-If you have any questions or requests that you believe I can deliver on, please hesitate to send me a message[^4] here:
+If you have any questions or requests that you believe I can deliver on, please hesitate to send me a message[^3*] here:
 - Email: `rus.git@pm.me`
 - Discord: `_rus`
 
-[^4]: Yes, that typo was a joke. Most people read so quickly that they don't notice it, so I put it there because it's funny when they finally do.
+[^3]: Yes, that typo was a joke. Most people read so quickly that they don't notice it, so I put it there because it's funny when they finally do.
