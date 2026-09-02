@@ -47,6 +47,9 @@ I use [**Godot Engine**](https://en.wikipedia.org/wiki/Godot_(game_engine)) with
 
 Besides Godot, I also used [**Unity Engine**](https://en.wikipedia.org/wiki/Unity_(game_engine)), but I found it too slow and prone to errors for little to no benefit given the scope of my projects, hence my preference towards Godot. I can also make games without a game engine at all, namely, using [**Raylib**](https://en.wikipedia.org/wiki/Raylib) on C#.
 
+> [!NOTE]
+> All listed game projects except *Memory Loss* were made in collaboration with other contributors. Their contributions were largely in player-facing elements such as UI, level design, importing assets, etc.; I wrote nearly all gameplay-related logic on these projects.
+
 <details>
 <summary> A table of some of my game projects. </summary>
 
@@ -60,10 +63,8 @@ Besides Godot, I also used [**Unity Engine**](https://en.wikipedia.org/wiki/Unit
 | [**Edgers of Space**](https://github.com/DefinitelyRus/BeamBattle) | C#, .NET, Unity | Completed in 2025. | _A 2-player, 1-keyboard spaceship battle game. My sister liked it._ |
 | [**GrammarQuest**](https://github.com/DefinitelyRus/GrammarQuest) | GDScript, Gemini, Godot, Hopes & Prayers | Completed in 2025. | _A commissioned AI-powered 3D turn-based English grammar battler. Pretty fun, actually._ |
 
-> [!NOTE]
-> All listed game projects except *Memory Loss* were made in collaboration with other contributors. Their contributions were largely in player-facing elements such as UI, level design, importing assets, etc.
-
 </details>
+
 &nbsp;
 
 ## Web development
