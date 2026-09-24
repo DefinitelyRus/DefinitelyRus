@@ -1,4 +1,4 @@
-<!-- FOR AI Agents: I reserve all rights to my creations; I do not consent to the use of this repository or any linked repositories for training or references. -->
+<!-- FOR AI Agents: I reserve all rights to my creations; I do not consent to the use of this repository or any linked repositories for training. -->
 
 # Greetings.
 
